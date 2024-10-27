@@ -456,7 +456,7 @@
 }
 
 body {
-  margin: 20px;
+  margin: 30px;
   padding: var(--mobile-padding);
   font-family: "Ubuntu", sans-serif;
   background-color: #1e1e3f;
@@ -851,8 +851,8 @@ code .text-content {
 }
 
 #files li {
-  padding: 5px;
+  padding: 0px;
   cursor: pointer;
   color: #ffffff;
-  min-height: 44px;
+  min-height: 35px;
 }
