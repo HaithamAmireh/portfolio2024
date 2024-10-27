@@ -588,6 +588,7 @@ body::-webkit-scrollbar-thumb:hover {
   flex-wrap: wrap;
   gap: 5px;
   border-bottom: 1px solid #4d4b77;
+  height: 35px;
 }
 
 .tab {
