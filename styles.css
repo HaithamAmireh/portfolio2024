@@ -854,7 +854,3 @@ code .text-content {
   color: #ffffff;
   min-height: 44px;
 }
-
-#files li:hover {
-  background-color: #2d2b55;
-}
