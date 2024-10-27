@@ -851,8 +851,7 @@ code .text-content {
 }
 
 #files li {
-  padding: 0px;
+  padding: 10px;
   cursor: pointer;
   color: #ffffff;
-  min-height: 35px;
 }
